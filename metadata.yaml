@@ -1,6 +1,9 @@
 _repo: Lord-Lister-No-5-De-zwarte-man-in-het-slaapvertrek_66611
 _version: 0.1.0
 alternative_title: 'Lord Lister No. 5: De gemaskerde in het boudoir'
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Matull, Kurt
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '53456'
     url: http://www.gutenberg.org/2009/agents/53456
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66611#Lord-Lister-No-5-De-zwarte-man-in-het-slaapvertrek
 gutenberg_issued: '2021-10-25'
 identifiers:
   gutenberg: '66611'
